@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h1> 💫 About Me: </h1>
  
  
-- Hello everyone 👋, I'm Manav Malhotra, a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
+- Hello everyone 👋, I'm Manav Malhotra, a 3rd year undergraduate student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
 
 - I have pretty good experience with ***JavaScript*** and I also enjoy working with web apps and bots, I love to solve real-world problems, contribute to open source projects, and add value to the projects.
 
